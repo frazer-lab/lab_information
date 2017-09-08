@@ -1,3 +1,3 @@
 # lab_information
 
-See the wiki
+[See the wiki](https://github.com/frazer-lab/lab_information/wiki)
